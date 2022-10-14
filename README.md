@@ -1,3 +1,7 @@
+
+# IMPORTANT NOTE
+This is not an encryption program. It only performs basic cypher encoding/decoding.
+
 # pyBENcS
 A file encryption system written in python 3 #Devember
 
